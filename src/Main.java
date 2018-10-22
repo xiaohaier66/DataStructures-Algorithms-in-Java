@@ -11,7 +11,7 @@ public class Main {
 //        OrderedApp orderedApp = new OrderedApp();
 //        ClassDataApp classDataApp = new ClassDataApp();
 //        BubbleSortApp bubbleSortApp = new BubbleSortApp();
-//        InsertSortApp insertSortApp = new InsertSortApp();
-        ObjectSortApp objectSortApp = new ObjectSortApp();
+        InsertSortApp insertSortApp = new InsertSortApp();
+//        ObjectSortApp objectSortApp = new ObjectSortApp();
     }
 }
